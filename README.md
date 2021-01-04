@@ -9,3 +9,7 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
   3. My EFI has the necessary kexts and SSDTs for this particular laptop with the i7-8565U generation which is whiskey lake, newer models will have a slightly different set up
   4. Any questions then respond on this reddit thread:
     https://www.reddit.com/r/hackintosh/comments/kecoih/entroware_apollo_catalina_compatible/
+    
+    ******************************************************************************************
+    
+    UPDATE: Everything sorted out except battery and power management.
