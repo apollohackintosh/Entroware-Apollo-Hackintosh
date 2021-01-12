@@ -7,9 +7,10 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
   https://dortania.github.io/OpenCore-Install-Guide/
   2. Builds depend on the chipset and general hardware you have
   3. My EFI has the necessary kexts and SSDTs for this particular laptop with the i7-8565U generation which is whiskey lake, newer models will have a slightly different set up
-  4. Any questions then respond on this reddit thread:
+  4. Any questions then respond on the following threads:
     https://www.reddit.com/r/hackintosh/comments/kecoih/entroware_apollo_catalina_compatible/
+    https://www.tonymacx86.com/threads/entroware-apollo-hackintosh-big-sur-battery-power-detection-issue.309093/
     
     ******************************************************************************************
     
-    UPDATE: Everything sorted out except battery and power management.
+    UPDATE: Everything sorted out except battery and power management. I am using SMCBatteryManager kext and my battery is already on 8-bit with naming of EC so it should not require a patch.
