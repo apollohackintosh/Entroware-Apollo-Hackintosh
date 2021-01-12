@@ -15,3 +15,7 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
     
     UPDATE: Everything sorted out except battery and power management. I am using SMCBatteryManager 
     kext and my battery is already on 8-bit with naming of EC so it should not require a patch.
+    
+    UPDATE: 12-01-2021 - Battery status seems to be working fine and discharging real-time.
+    Seems to be discharging very quick which is a power management issue still and the charger
+    is not being detected still so working to see what the issue is.
