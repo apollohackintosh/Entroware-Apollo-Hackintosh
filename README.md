@@ -13,4 +13,5 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
     
     ******************************************************************************************
     
-    UPDATE: Everything sorted out except battery and power management. I am using SMCBatteryManager kext and my battery is already on 8-bit with naming of EC so it should not require a patch.
+    UPDATE: Everything sorted out except battery and power management. I am using SMCBatteryManager 
+    kext and my battery is already on 8-bit with naming of EC so it should not require a patch.
