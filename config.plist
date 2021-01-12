@@ -1098,7 +1098,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>XXXXXX</string>
+			<string>FVF045902QX0000FB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1110,9 +1110,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXX</string>
+			<string>FVFDN0KML40Y</string>
 			<key>SystemUUID</key>
-			<string>XXXXXX</string>
+			<string>79618E6B-38BC-4FE5-8AE8-87B331B67625</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
