@@ -39,4 +39,5 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
     GPU details so the laptop is working nicely without needlessly throttling. Now the battery and
     power charging most likely will be fixed by the FakeSMC_3 so will try that and upload the result.
     
-    UPDATE 29-01-2021 - USBMap.kext enabled for SDcard support.
+    UPDATE 29-01-2021 - USBMap.kext enabled for SDcard support. Will be uploaded in V4.0 along with
+    other fixes for battery indicator.
