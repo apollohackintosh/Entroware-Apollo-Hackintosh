@@ -38,3 +38,5 @@ A breakdown of what is needed if you do have this laptop and want to hackintosh 
     UPDATE 28-01-2021 - Power Management works perfectly with the issue being the incorrect
     GPU details so the laptop is working nicely without needlessly throttling. Now the battery and
     power charging most likely will be fixed by the FakeSMC_3 so will try that and upload the result.
+    
+    UPDATE 29-01-2021 - USBMap.kext enabled for SDcard support.
