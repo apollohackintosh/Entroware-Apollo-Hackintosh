@@ -5,14 +5,14 @@ This is a project I started myself since I have been using the entroware apollo 
 https://www.entroware.com/store/
 
 My hardware is as follows:
-Motherboard: Apollo Entroware - InsydeH20 Bios 1.07.02TPCS
-Chipset: Intel(R) Core(TM) i7-8586U CPU @ 1.80Ghz
-Graphics: Intel UHD Graphics 620
-DRAM Frequency: 2400 MHz
-Memory Size: 32768 MB
-Storage: 1tb NVME SSD, 1tb SATA SSD (Big Sur is on this one)
-Setup: Quad-boot => Ubuntu, Win10, WinSer2019, Big Sur
-DSDT.aml attached in the root for more details.
+- Motherboard: Apollo Entroware - InsydeH20 Bios 1.07.02TPCS
+- Chipset: Intel(R) Core(TM) i7-8586U CPU @ 1.80Ghz
+- Graphics: Intel UHD Graphics 620
+- DRAM Frequency: 2400 MHz
+- Memory Size: 32768 MB
+- Storage: 1tb NVME SSD, 1tb SATA SSD (Big Sur is on this one)
+- Setup: Quad-boot => Ubuntu, Win10, WinSer2019, Big Sur
+- DSDT.aml attached in the root for more details.
 
 NOTE: I have kept my EFI for Mac on a separate drive where I installed Big Sur. So in the event the bootloader causes issues with other OS, I can boot from
 the original EFI by selecting the drive upon boot and I would recommend this method unless you are only install MacOS and nothing else on the laptop.
