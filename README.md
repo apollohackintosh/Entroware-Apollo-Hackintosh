@@ -1,4 +1,4 @@
-# Entroware-Apollo-Hackintosh
+# Entroware-Apollo-Hackintosh_Big Sur
 
 This is a project I started myself since I have been using the entroware apollo laptop since last year and it is a phenomenal machine. I wanted to really push the hardware and at present I have quad boot set up with Mac OS as well. I have the Whikeylake version of the laptop but the newer ones with the 10th gen chips can be purchased in the following link:
 
