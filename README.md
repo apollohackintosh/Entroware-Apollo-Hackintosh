@@ -41,8 +41,6 @@ OpenCore 0.6.5
 
 MacBookPro15,4
 
-    ******************************************************************************************
-
 ####### Change Log
 
    UPDATE: 02-01-2021
@@ -56,7 +54,7 @@ MacBookPro15,4
     
    UPDATE 28-01-2021
    - Power Management works perfectly with the issue being the incorrect
-   - GPU details so the laptop is working nicely without needlessly throttling. Now the battery and power charging most likely will be fixed by the FakeSMC_3 so          will try that and upload the result.
+   - GPU details so the laptop is working nicely without needlessly throttling. Now the battery and power charging most likely will be fixed by the FakeSMC_3 so will try that and upload the result.
     
    UPDATE 29-01-2021
    - USBMap.kext enabled for SDcard support. Will be uploaded in V4.0 along with other fixes for battery indicator
@@ -68,6 +66,6 @@ MacBookPro15,4
    - Added undervolt kext to manage voltage and extend battery life
    - CPU management working now
    - MacOS updated to 11.2.1 and working perfectly in this set up
-   - In this version, the battery management is working perfectly with all the sensors as well but unfortunately the sleep/wake functions broke with FakeSMC so will      try to have that sorted out in the next release. For now this version is the pre-cursor to the final release once everything is working
+   - In this version, the battery management is working perfectly with all the sensors as well but unfortunately the sleep/wake functions broke with FakeSMC so will try to have that sorted out in the next release. For now this version is the pre-cursor to the final release once everything is working
 
 
