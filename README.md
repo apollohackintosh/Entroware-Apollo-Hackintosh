@@ -6,7 +6,7 @@ This is a project I started myself since I have been using the entroware apollo 
 
 https://www.entroware.com/store/
 
-## My hardware is as follows:
+### My hardware is as follows:
 
 - [x] Motherboard: Apollo Entroware - InsydeH20 Bios 1.07.02TPCS
 - [x] Chipset: Intel(R) Core(TM) i7-8586U CPU @ 1.80Ghz
@@ -24,7 +24,7 @@ https://www.entroware.com/store/
 NOTE: I have kept my EFI for Mac on a separate drive where I installed Big Sur. So in the event the bootloader causes issues with other OS, I can boot from
 the original EFI by selecting the drive upon boot and I would recommend this method unless you are only install MacOS and nothing else on the laptop.
 
-#### Requirements to hackintosh:
+### Requirements to hackintosh:
   1. Follow the opencore guide as strictly as possible:
   https://dortania.github.io/OpenCore-Install-Guide/
   2. Builds depend on the chipset and general hardware you have
@@ -33,15 +33,15 @@ the original EFI by selecting the drive upon boot and I would recommend this met
     https://www.reddit.com/r/hackintosh/comments/kecoih/entroware_apollo_catalina_compatible/
     https://www.tonymacx86.com/threads/entroware-apollo-hackintosh-big-sur-battery-power-detection-issue.309093/
 
-##### Bootloader
+### Bootloader
 
 OpenCore 0.6.5
 
-###### SMBIOS
+### SMBIOS
 
 MacBookPro15,4
 
-####### Change Log
+### Change Log
 
    UPDATE: 02-01-2021
    - Everything sorted out except battery and power management. I am using SMCBatteryManager 
